@@ -11,3 +11,6 @@ http://www.woojean.com/2018/07/10/%E8%80%81%E5%AD%90%E4%BB%8A%E6%B3%A8%E4%BB%8A%
 https://www.crifan.org/files/doc/docbook/embedded_soft_dev/release/html/embedded_soft_dev.html#emb_dev_related_things
 
 https://www.crifan.org/
+
+
+https://github.com/crifan/crifan_ebook_readme
